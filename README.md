@@ -6,3 +6,5 @@ Repositório criado por razão de aprendizado!
 Alterei essa linha dentro do site a partir do README
 
 alterei de novo sem ver a aula para ver se aprendi
+
+alterei dentro do site de novo, já sabe porque ,né?
